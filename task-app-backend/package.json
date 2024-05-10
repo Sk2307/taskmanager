@@ -25,8 +25,11 @@
     "jest-when": "^3.6.0",
     "nodemon": "^3.1.0"
   },
-  "jest":{
+  "jest": {
     "collectCoverage": true,
-    "coverageReporters": ["json", "html"]
+    "coverageReporters": [
+      "json",
+      "html"
+    ]
   }
 }
